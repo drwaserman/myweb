@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    margin-top: 0px;
+}
+
+.uvod{
+    background-color: #16a596;
+    padding: 20px;
+}
+
+.stat{
+    background-color: #f6f5f1;
+    height: 200px;
+}
+
+.zaver{
+    background-color: #898b8a;
+}
